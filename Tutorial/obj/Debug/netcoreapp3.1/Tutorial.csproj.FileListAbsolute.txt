@@ -1,0 +1,12 @@
+/Users/victorli/RiderProjects/Tutorial/Tutorial/bin/Debug/netcoreapp3.1/Tutorial.deps.json
+/Users/victorli/RiderProjects/Tutorial/Tutorial/bin/Debug/netcoreapp3.1/Tutorial.runtimeconfig.json
+/Users/victorli/RiderProjects/Tutorial/Tutorial/bin/Debug/netcoreapp3.1/Tutorial.runtimeconfig.dev.json
+/Users/victorli/RiderProjects/Tutorial/Tutorial/bin/Debug/netcoreapp3.1/Tutorial.dll
+/Users/victorli/RiderProjects/Tutorial/Tutorial/bin/Debug/netcoreapp3.1/Tutorial.pdb
+/Users/victorli/RiderProjects/Tutorial/Tutorial/obj/Debug/netcoreapp3.1/Tutorial.csprojAssemblyReference.cache
+/Users/victorli/RiderProjects/Tutorial/Tutorial/obj/Debug/netcoreapp3.1/Tutorial.AssemblyInfoInputs.cache
+/Users/victorli/RiderProjects/Tutorial/Tutorial/obj/Debug/netcoreapp3.1/Tutorial.AssemblyInfo.cs
+/Users/victorli/RiderProjects/Tutorial/Tutorial/obj/Debug/netcoreapp3.1/Tutorial.csproj.CoreCompileInputs.cache
+/Users/victorli/RiderProjects/Tutorial/Tutorial/obj/Debug/netcoreapp3.1/Tutorial.dll
+/Users/victorli/RiderProjects/Tutorial/Tutorial/obj/Debug/netcoreapp3.1/Tutorial.pdb
+/Users/victorli/RiderProjects/Tutorial/Tutorial/obj/Debug/netcoreapp3.1/Tutorial.genruntimeconfig.cache

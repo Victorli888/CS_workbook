@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/victorli/RiderProjects/Tutorial/Tutorial/Tutorial.csproj": {}
+  },
+  "projects": {
+    "/Users/victorli/RiderProjects/Tutorial/Tutorial/Tutorial.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/victorli/RiderProjects/Tutorial/Tutorial/Tutorial.csproj",
+        "projectName": "Tutorial",
+        "projectPath": "/Users/victorli/RiderProjects/Tutorial/Tutorial/Tutorial.csproj",
+        "packagesPath": "/Users/victorli/.nuget/packages/",
+        "outputPath": "/Users/victorli/RiderProjects/Tutorial/Tutorial/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/victorli/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/victorli/.dotnet/sdk/3.1.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
