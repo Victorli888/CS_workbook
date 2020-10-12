@@ -4,7 +4,7 @@ namespace Tutorial
 {
     class hello_world
     {
-        static void Main(string[] args)  // Static - method belongs to "class Program" Void - method will not have a return value
+        static void Main()  // Static - method belongs to "class Program" Void - method will not have a return value
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("This is used for a test commit.");
